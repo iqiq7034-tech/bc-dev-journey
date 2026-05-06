@@ -27,7 +27,8 @@ project publicly to track my growth.
 | 04 | Al-Buraq Supply Solutions | Vendor & supply workflows |
 | 05 | CRONUS International Ltd | BC standard objects |
 | 06 | Legacy To Cloud Bridge | Migration concepts |
-
+| 07 | API Integration Project | REST API, HttpClient, 
+GET, POST, PUT, DELETE, JSON Handling, Save to BC Table |
 ---
 
 ## 🛠️ Technologies
