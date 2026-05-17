@@ -28,6 +28,7 @@ project publicly to track my growth.
 | 05 | CRONUS International Ltd | BC standard objects |
 | 06 | Legacy To Cloud Bridge | Migration concepts |
 | 07 | API Integration Project | REST API, HttpClient, GET, POST, PUT, DELETE, JSON Handling, Save to BC Table |
+| 08 | API Health Dashboard  | OAuth 2.0 concept (401 response = auth required), HttpClient in AL, API Setup table pattern, Webhooks: receiving + subscribing, Job Queue for automated API calls
 ---
 
 ## 🛠️ Technologies
