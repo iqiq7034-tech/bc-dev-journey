@@ -29,7 +29,14 @@ project publicly to track my growth.
 | 06 | Legacy To Cloud Bridge | Migration concepts |
 | 07 | API Integration Project | REST API, HttpClient, GET, POST, PUT, DELETE, JSON Handling, Save to BC Table |
 | 08 | API Health Dashboard  | OAuth 2.0 concept (401 response = auth required), HttpClient in AL, API Setup table pattern, Webhooks: receiving + subscribing, Job Queue for automated API calls
+| 09 | Currency Exchange Rate  |  HTTPClient, Parse Json response, Authentication(API Key, Basic Auth, Bearer Token), Error Hadeling For APIs
 ---
+
+## 📄 Documents
+
+| # | Document | Content|
+|----|----------|--------|
+| 01 | AL_Month_1 Complete Guid| All topics covered in the first month, from basic to advanced, regarding AL.
 
 ## 🛠️ Technologies
 
