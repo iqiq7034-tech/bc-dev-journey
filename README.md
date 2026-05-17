@@ -37,6 +37,7 @@ project publicly to track my growth.
 | # | Document | Content|
 |----|----------|--------|
 | 01 | AL_Month_1 Complete Guid| All topics covered in the first month, from basic to advanced, regarding AL.
+---
 
 ## 🛠️ Technologies
 
