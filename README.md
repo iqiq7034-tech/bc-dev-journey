@@ -30,6 +30,7 @@ project publicly to track my growth.
 | 07 | API Integration Project | REST API, HttpClient, GET, POST, PUT, DELETE, JSON Handling, Save to BC Table |
 | 08 | API Health Dashboard  | OAuth 2.0 concept (401 response = auth required), HttpClient in AL, API Setup table pattern, Webhooks: receiving + subscribing, Job Queue for automated API calls
 | 09 | Currency Exchange Rate  |  HTTPClient, Parse Json response, Authentication(API Key, Basic Auth, Bearer Token), Error Hadeling For APIs
+| 10 | Shopify Bc |  Final API Integration project in which I connect Shopify to Business Centrak
 ---
 
 ## 📄 Documents
