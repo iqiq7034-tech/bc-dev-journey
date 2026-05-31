@@ -38,6 +38,7 @@ project publicly to track my growth.
 | # | Document | Content|
 |----|----------|--------|
 | 01 | AL_Month_1 Complete Guid| All topics covered in the first month, from basic to advanced, regarding AL.
+| 02 | Month_2 BC_API_Playbook| from HTTPClient to OAuth|
 ---
 
 ## 🛠️ Technologies
